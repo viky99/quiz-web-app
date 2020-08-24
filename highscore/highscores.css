@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+}
+
+.stuffs{
+    text-align: center;
+    margin-top: 12%;
+}
+
+#highscore{
+    margin-top: 5%;
+    text-align: center;
+    color: gray;
+    font-size: 40px;
+}
+
+#goHome{
+    margin-top: 5%;
+    font-size: 20px;
+}
