@@ -1,0 +1,34 @@
+
+.contPos{
+    text-align: center;
+    color: cornflowerblue;
+    margin-top: 5%;
+}
+
+#displayScore{
+    font-size: 100px;
+}
+
+
+#username{
+    height: 80px;
+    width: 60%;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#saveScoreBtn{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+#playAgain{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+#goHome{
+    font-size: 40px;
+    margin-bottom: 15px;
+}

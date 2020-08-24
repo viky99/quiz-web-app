@@ -1,0 +1,22 @@
+.quizContainer{
+    margin-top: 10%;
+}
+.ques{
+    font-size: 40px;
+}
+
+.qno{
+    font-size: 30px;
+}
+
+.options{
+    margin-top: 30px;
+    border: 1px solid black;
+    font-size: 30px;
+}
+
+#score{
+    float: right;
+    font-size: 30px;
+    margin-top: -4%;
+}
